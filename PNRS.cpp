@@ -1,3 +1,4 @@
+// author:里克
 /* P
  * N R S
  * i是P(确定),a是N(确定),b&c是R,s是S(确定),d是s的index */
